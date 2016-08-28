@@ -1,6 +1,6 @@
 ExtMath
 =======
 
-An extension for the Java Math library
+A math library provides functionality that is not available in the standard Java Math library.
 
 Pull requests are always welcome!
